@@ -29,8 +29,3 @@ func printEquationResult(_ result: QuadraticEquationResult) {
         print("No roots for such coefficients")
     }
 }
-
-
-func someUnnecessaryFunction() {
-    print("Doing something unnecessary")
-}
